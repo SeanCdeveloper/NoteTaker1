@@ -35,8 +35,6 @@ To use NoteTaker1, users have to access the webpage, and then start typing in th
 
 ## License 
 
-# License 
-
 GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 
