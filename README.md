@@ -9,7 +9,7 @@
 * [Usage] (#usage)
 * [License] (#license)
 
-# User-Story
+## User-Story
 
 AS a user, I want to be able to write and save notes.
 
